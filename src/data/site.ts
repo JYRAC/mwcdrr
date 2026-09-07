@@ -14,13 +14,13 @@ export const siteConfig = {
   dateJa: "2027年3月予定",
   organizer: "NPO法人日本若者防災復興協会（JYRAC）",
   organizerShort: "JYRAC",
-  organizerUrl: "https://www.jyrac.org/",
+  organizerUrl: "https://jyrac.stki.org/",
   instagram: "@mwcdrr_jyrac",
   instagramUrl: "https://www.instagram.com/mwcdrr_jyrac/",
   email: "jyrac.pr@gmail.com",
   applyUrl: "https://forms.gle/hkSQi2uSmfhiGKni7",
   /** 本番ドメインが決まったら書き換えてください（OGP・sitemap に使用） */
-  url: "https://mwcdrr.jyrac.org",
+  url: "https://mwcdrr.jyrac.stki.org",
   /** 開催都市の座標。ヒーローや地図の演出に使用 */
   hostCoordinates: { lat: 35.6812, lng: 139.7671, label: "35.68°N 139.77°E" },
 } as const;

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mwcdrr.jyrac.org/sitemap.xml
+Sitemap: https://mwcdrr.jyrac.stki.org/sitemap.xml
